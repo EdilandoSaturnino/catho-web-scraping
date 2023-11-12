@@ -25,7 +25,7 @@ O projeto está organizado da seguinte maneira:
 Para executar este projeto, é necessário ter o Node.js e o NPM instalados. Siga os passos abaixo:
 
 ```bash
-   git clone https://github.com/EdilandoSaturnino/catho-web-scraping
+git clone https://github.com/EdilandoSaturnino/catho-web-scraping
 ```
 
 Entre na pasta do projeto e instale as dependências:
